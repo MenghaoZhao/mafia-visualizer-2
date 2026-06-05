@@ -1,0 +1,10 @@
+{
+  "name": "Mafia Social Graph",
+  "description": "An interactive relationship visualizer for Mafia games that maps and aggregates player opinions from voice recordings and transcripts, creating a dynamic web of suspicion.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
